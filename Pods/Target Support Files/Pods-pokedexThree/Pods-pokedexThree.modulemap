@@ -1,0 +1,6 @@
+framework module Pods_pokedexThree {
+  umbrella header "Pods-pokedexThree-umbrella.h"
+
+  export *
+  module * { export * }
+}
